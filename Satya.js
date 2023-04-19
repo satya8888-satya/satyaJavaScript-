@@ -6,3 +6,8 @@ else
 console.log("The Given Number Is Odd")
 }
 func();
+
+const hello=()=>{
+  console.log("Hello JavaScriptWorld");
+}
+hello();
